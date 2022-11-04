@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
-
-import { Link, Spinner } from 'components';
+import Link from 'next/link';
+import { Spinner } from 'components';
 import { Layout } from 'components/users';
 import { userService } from 'services';
 

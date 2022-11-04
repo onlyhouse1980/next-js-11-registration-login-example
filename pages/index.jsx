@@ -1,5 +1,5 @@
 import { userService } from 'services';
-import { Link } from 'components';
+import Link from 'next/link';
 
 export default Home;
 
